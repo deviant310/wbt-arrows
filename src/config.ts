@@ -1,0 +1,4 @@
+export default {
+	GAME_STEP_TIMEOUT: 5000,
+	TIMER_UPDATE_INTERVAL: 1000,
+};

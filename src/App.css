@@ -1,0 +1,41 @@
+.main-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.content {
+	text-align: center;
+}
+
+.game-container--disabled {
+	opacity: .3;
+}
+
+.timer {
+	font-size: 1.5rem;
+}
+
+.arrow-typings {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	font-family: monospace;
+}
+
+.arrow--big {
+	font-size: 10rem;
+}
+
+.arrow--small {
+	font-size: 2rem;
+}
+
+.text--green {
+	color: green;
+}
+
+.text--red {
+	color: red;
+}
